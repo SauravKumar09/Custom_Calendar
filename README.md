@@ -31,7 +31,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/custom_calendar.git
+git clone https://github.com/SauravKumar09/Custom_Calendar.git
 cd custom_calendar
 Install dependencies
 
@@ -72,4 +72,6 @@ Your Name
 
 
 <img width="295" height="639" alt="Screenshot 2025-08-09 023939" src="https://github.com/user-attachments/assets/622b6f15-574e-4fab-a53c-eb9583259437" />
+
+
 <img width="290" height="629" alt="Screenshot 2025-08-09 023959" src="https://github.com/user-attachments/assets/2e783520-58c2-47bd-9e41-be60c3ba5e13" />
